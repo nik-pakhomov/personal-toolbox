@@ -4,3 +4,4 @@ This repo contains list of tools (libraries, frameworks, programs) that I used o
 
 ## Contents
 * [PhotoSwipe](content/photoswipe/description.md) - image gallery with no dependencies.
+* [GSAP ScrollTo plugin](content/gsap_scrollto_plugin/description.md) - anchor navigation via scrolling.
